@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "By1Ve+yr7uHGzYGwLvXU2KdUDf38vYEdOa5iCESQSyw=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "C:\\ASP\\REST\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\ASP\\REST\\WebAPI\\wwwroot\\images\\456f60e0-9106-4bac-9c25-59d1ab450a39_maxresdefault (2).jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP\\REST\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/456f60e0-9106-4bac-9c25-59d1ab450a39_maxresdefault (2).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\456f60e0-9106-4bac-9c25-59d1ab450a39_maxresdefault (2).jpg"
+    },
+    {
+      "Identity": "C:\\ASP\\REST\\WebAPI\\wwwroot\\images\\90c69154-a053-4357-b454-3be5b8225b35_maxresdefault (2).jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP\\REST\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/90c69154-a053-4357-b454-3be5b8225b35_maxresdefault (2).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\90c69154-a053-4357-b454-3be5b8225b35_maxresdefault (2).jpg"
+    }
+  ]
+}
