@@ -1,0 +1,15 @@
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\bin\Debug\net6.0\Application.deps.json
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\bin\Debug\net6.0\Application.dll
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\bin\Debug\net6.0\Application.pdb
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\bin\Debug\net6.0\Domain.dll
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\bin\Debug\net6.0\Domain.pdb
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\obj\Debug\net6.0\Application.dll
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\obj\Debug\net6.0\refint\Application.dll
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\obj\Debug\net6.0\Application.pdb
+C:\ASP\CleanArchitecture\CleanArchitecture\Application\obj\Debug\net6.0\ref\Application.dll
